@@ -701,7 +701,7 @@
  	 	 	 	"eng": "Print Cache"
  	 	 	},
  	 	 	"printCacheDescription": {
- 	 	 	 	"trans": "Convierte esta caché en un arma o equipamiento que puedas usar.",
+ 	 	 	 	"trans": "Convierte este caché en un arma o equipamiento que puedas usar.",
  	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can uae."
  	 	 	},
  	 	 	"openContainer": {
@@ -6343,11 +6343,11 @@
  	 	 	"vars": [
  	 	 	 	"playerName"
  	 	 	],
- 	 	 	"trans": "informando ${playerName}",
+ 	 	 	"trans": "Reportando a ${playerName}",
  	 	 	"eng": "reporting ${playerName}"
  	 	},
  	 	"description": {
- 	 	 	"trans": "El informe se enviará a moderadores automáticamente. \\nPor favor usar debidamente, sin spam o jugar con el sistema de informes",
+ 	 	 	"trans": "El Reporte se enviará a los moderadores automáticamente. \\nPor favor usar debidamente, sin spam o jugar con el sistema de informes",
  	 	 	"eng": "Report will be sent to moderators automatically. \\nPlease do not misuses, spamming or play with the report system"
  	 	},
  	 	"textInput": {
@@ -6362,11 +6362,11 @@
  	 	},
  	 	"error": {
  	 	 	"otherNoText": {
- 	 	 	 	"trans": "El tipo de informe de \"otro\" necesita una descripción",
+ 	 	 	 	"trans": "El tipo de reporte de \"otro\" necesita una descripción",
  	 	 	 	"eng": "Report type of \"Other\" needs a description"
  	 	 	},
  	 	 	"noReportType": {
- 	 	 	 	"trans": "Necesita seleccionar un tipo de informe",
+ 	 	 	 	"trans": "Necesita seleccionar un tipo de reporte",
  	 	 	 	"eng": "You need to select a report type"
  	 	 	}
  	 	}
@@ -6388,7 +6388,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"kick": {
- 	 	 	 	"trans": "Patada",
+ 	 	 	 	"trans": "Expulsar",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
  	 	 	 	 	"trans": "Expulsa a Netrunners de tu pandilla.",
