@@ -75,6 +75,7 @@ Rinelle
 Ryugarret
 [Satour](https://github.com/satour)
 [Seo-na](https://github.com/Seo-na)
+[Sevtem](https://github.com/Sevtem)
 [siruelionn](https://github.com/siruelionn)
 SKIFFI
 [SnRetro](https://github.com/SnRetro)
